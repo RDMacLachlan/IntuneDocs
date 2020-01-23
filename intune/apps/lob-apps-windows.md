@@ -47,7 +47,7 @@ A line-of-business (LOB) app is one that you add from an app installation file. 
 ## Step 2: Configure the app package file
 
 1. In the **Add app** pane, select **App package file**.
-2. In the **App package file** pane, select the browse button. Then select a Windows installation file with the extension **.msi**, **.appx**, or **.appxbundle**.
+2. In the **App package file** pane, select the browse button. Then select a Windows installation file with the extension **.msi**, **.appx**, **.appxbundle**, **.MSIX**, or **.msixbundle**.
 
     > [!NOTE]
     > The file extensions for Windows apps include **.msi**, **.appx**, **.appxbundle**, **.msix**, and **.msixbundle**.  
